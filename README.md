@@ -19,7 +19,7 @@ I build modern web applications and bridge the gap between 17th-century literatu
 ---
 
 ### 📊 Stats
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaydaram&show_icons=true&theme=minimal)
+![GitHub statistics card showing Ajay's public contribution metrics](https://github-readme-stats.vercel.app/api?username=ajaydaram&show_icons=true&theme=minimal)
 _Stats are provided by github-readme-stats (vercel.app); if the card does not load, refresh the page or check back later._
 
 > **Sidebar bio version:** Software Developer & Researcher | M.A. Intercultural Studies | Building Scriptorium | React, TypeScript, Digital Humanities.
