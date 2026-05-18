@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ajay 👋
 
-<!--
-**ajaydaram/ajaydaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer & Intercultural Studies Scholar
 
-Here are some ideas to get you started:
+I build modern web applications and bridge the gap between 17th-century literature and the digital age.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) 
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+*   🎓 **Research:** 17th-century allegorical literature & Grandhika translation.
+*   🚀 **Current Project:** [Scriptorium] - A PWA for chronological reading.
+*   🖋 **Aesthetic:** Minimalist, sleek, and distraction-free.
+
+---
+
+### 📊 Stats
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaydaram&show_icons=true&theme=minimal)
